@@ -20,27 +20,31 @@ html
       script(src='/javascripts/ad-nag.js')
   body
     #main
-      #title= title
 
-      div
-        ul#nav
-          for page in pages
+      //
+        #title= title
+
+        div
+          ul#nav
+            for page in pages
+              li
+                a(href='/' + page.slug)= page.meta.linktext || page.title        
+          ul#subnav
             li
-              a(href='/' + page.slug)= page.meta.linktext || page.title        
-        ul#subnav
-          li
-            if showRss
-              a.rss(href='/feed')
+              if showRss
+                a.rss(href='/feed')
 
-      .clear
+        .clear
 
       .essay
         !=body
 
+      #marty-bar
+        .a(href='#')
+          img(src='/themes/beapub/img/marty.png')
+
       if disqusShortname
         include _disqus
-    
-    <a href="https://github.com/katzgrau/essayist"><img style="position: fixed; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
 
     if ads
       #adnag-root.adnag-closed

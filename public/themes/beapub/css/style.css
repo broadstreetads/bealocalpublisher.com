@@ -1,0 +1,36 @@
+body {
+	background-image: url(../img/wallpaper.png);
+	margin-bottom: 0;
+}
+
+#title, #nav li a {
+	color: #333;
+	text-shadow: 2px 2px #fff;
+	display: inline;
+	background-color: white;
+	padding: 5px 20px;
+}
+
+#nav li a {
+	background-color: white;
+	padding: 10px;
+	margin-right: 10px;
+}
+
+#nav {
+	padding: 0;
+	margin: 30px 0;
+}
+
+.essay {
+	margin-bottom: 0px;
+}
+
+#marty-bar {
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: center top;
+	z-index: 100;
+	position: relative;
+	margin-top: -12px;
+}
