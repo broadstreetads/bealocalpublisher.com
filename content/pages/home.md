@@ -1,9 +1,9 @@
 <!--
-title: An Essay Publishing App
+title: How to Become a Local Publisher
 linktext: Home
-created: May 12, 2012
+created: August 15, 2012
 listorder: 1
-tags: an,essay,publishing,app
+tags: hyperlocal,hyper,local,news,blog,how,start
 -->
 # How to Become a Local Publisher
 
