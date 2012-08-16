@@ -36,7 +36,7 @@ app.get('/:slug', routes.content);
 // Configure Essayist
 essayist.config({
   theme: 'beapub',
-  title: 'Essayist',
+  title: 'How to Hyperlocal',
   description: 'How to Become a Local Publisher',
   ads: false,
   ad: '',
