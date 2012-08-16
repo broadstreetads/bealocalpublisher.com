@@ -35,6 +35,11 @@ body {
 	margin-top: -12px;
 }
 
+#marty-bar a {
+	padding-bottom: 0;
+	border-bottom: 0;
+}
+
 h1, h2, h3, h4, h5 {
 	text-align: center;
 	font-family: 'Lora', serif;
