@@ -40,6 +40,7 @@ essayist.config({
   description: 'How to Become a Local Publisher',
   ads: false,
   ad: '',
+  googleAnalyticsAccount: 'UA-34884573-1',
   hostOverrides: {
     'localhost:3000': {
       title: 'Essayist'
