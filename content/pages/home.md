@@ -134,6 +134,29 @@ They were already mentioned, but the two recommended adserver options for your l
 - [OpenX OnRamp](http://openx.com/publishers/community-ad-server)
 - [Google DoubleClick for Publishers (DFP)](https://www.google.com/intl/en_US/dfp/info/welcome.html)
 
+**On Ad Sizes**
+
+It's best to set up ad slots and ads that fall into to the [Interactive Advertising Bureau's](http://iab.net) standard set of ad sizes. Many local publishers roll with their own custom sizes for a while, but ultimately try and make the transition to standard sizes. Get started right!
+
+Using common ad sizes make your site's ad "inventory" but more agreeable to advertisers, especially if you ever want to run national ads on your site, or use drop-in "remnant" ads like those from Local Yokel or Google Adsense.
+
+The most common sizes are:
+
+- 728x90, "Leaderboard" (Commonly used at the top on bottom of a page)
+- 300x250, "Box Ads", or "Medium Rectangle" (Commonly used in sidebars, or embedded in articles)
+- 180x150, "Rectangle"
+- 160x600, "Wide Skyscraper" (Commonly used in thin sidebars)
+
+There is also a set of newer ad sizes that are gaining popularity:
+
+- 970x250, "Billboard" (Used most often at the top of the page. For a big and attention-grabbing premium slot)
+- 300x250, "Filmstrip" (Used in sidebars, also big and attention grabbing)
+- 300x1050, "Portrait" (Wide and very long, runs the full length of the browser viewing area for most people)
+
+The IAB has a list of display guidelines [on their website](http://www.iab.net/guidelines/508676/508767/displayguidelines).
+
+It's always good to remember that bigger ads yield the highest clicks. Sometimes it can be tempting to squeeze in many "button" ads, at 125x125, but they are falling out of favor due to poor performance.
+
 ### How to Find A Developer <a id="find-a-developer"></a>
 
 Having a software developer available isn't *required* to start your own local blog, but knowing one to call on for occasional tasks can be very handy, especially for:
