@@ -138,7 +138,7 @@ They were already mentioned, but the two recommended adserver options for your l
 
 It's best to set up ad slots and ads that fall into to the [Interactive Advertising Bureau's](http://iab.net) standard set of ad sizes. Many local publishers roll with their own custom sizes for a while, but ultimately try and make the transition to standard sizes. Get started right!
 
-Using common ad sizes make your site's ad "inventory" but more agreeable to advertisers, especially if you ever want to run national ads on your site, or use drop-in "remnant" ads like those from Local Yokel or Google Adsense.
+Using common ad sizes make your site's ad "inventory" more agreeable to advertisers, especially if you ever want to run national ads on your site or use drop-in "remnant" ads like those from Local Yokel or Google Adsense.
 
 The most common sizes are:
 
