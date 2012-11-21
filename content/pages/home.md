@@ -100,7 +100,7 @@ Getting ads on your site is commnly done in one of two ways:
 
 **1. Install an Advertising Module or Plugin to Your Platform**
 
-Most publishing platforms such as Wordpress, Drupal, and Joomla offer easy ways for-non technical people to add new functionality to their site via installable "plugins" or "modules". The plugins usually give you a way to upload an image (like an ad), and place it in your site's sidebar or header.
+Most publishing platforms such as Wordpress, Drupal, and Joomla offer easy ways for-non technical people to add new functionality to their site via installable "plugins" or "modules". The plugins usually give you a way to upload an image (like an ad), and place it in your site's sidebar or header. This is the easiest option, but not recommended due to long-term considerations.
 
 For Wordpress, the most popular plugins include:
 
@@ -108,19 +108,19 @@ For Wordpress, the most popular plugins include:
 - [Ad Code Manager](http://wordpress.org/extend/plugins/ad-code-manager/)
 - [AdPress](http://wordpress.org/extend/plugins/adpress/)
 
-The downside of this approach to advertising is that as you grow, you may find managing multiple advertisers and ads becomes increasingly difficult. For this reason, most hyperlocals soon move on to using an adserver.
+The big downside of this approach to advertising is that as you grow, you may find managing multiple advertisers and ads becomes increasingly difficult. For this reason, most hyperlocals soon move on to using an adserver.
 
-Another downside is that your web server is taxed heavily by the burden of serving images and other heavy files. The reasons behind this are purely technical, but it's important to keep in mind when growing.
+Another serious downside is that your web server is taxed heavily by the burden of serving images and other heavy files. The reasons behind this are purely technical, but it's important to keep in mind when growing.
 
 Overall, this is a great option for those starting out, but it's expected you'll move on to a full-on ad server soon.
 
 **2. Use A Hosted Ad Server**
 
-The ad server topic is much easier to address than it was 5 years ago. Recently, companies such as Google and OpenX have begin offering *hosted* ad server services, meaning they handle the dirty work of actually running the ad server software. You just need to sign up and manage your ads.
+The ad server topic is much easier to address than it was 5 years ago. Recently, companies such as Broadstreet (ie, us), Google and OpenX have begin offering *hosted* ad server services, meaning they handle the dirty work of actually running the ad server software. You just need to sign up and manage your ads.
 
 This is the general workflow for putting ads on your site with an ad server:
 
-1. Sign up for a free account with OpenX OnRamp or Google's DoubleClick for Publishers (DFP)
+1. Sign up for a free account with [Broadstreet](mailto:kenny@broadstreetads.com), OpenX or Google DFP
 2. Set up sub-accounts for each advertiser on your adserver account
 3. Set up the site sections/zones on your site in the adserver account
 4. Upload your advertiser's ads
@@ -131,8 +131,11 @@ Getting all this set up can be a complicated process! But you'll thank yourself 
 
 They were already mentioned, but the two recommended adserver options for your local blog are:
 
+- [Broadstreet](http://broadstreetads.com)
 - [OpenX OnRamp](http://openx.com/publishers/community-ad-server)
 - [Google DoubleClick for Publishers (DFP)](https://www.google.com/intl/en_US/dfp/info/welcome.html)
+
+**Disclosure:** The writers behind BeALocalPublisher.com are the developers of the Broadstreet Adserver for Independent Publishers. We built it specifically for fixed price ads that aren't sold on a CPM or CPC basis. As an added bonus, it integrates very smoothly with Wordpress, something other adservers don't do. Reach out to [kenny@broadstreetads.com](kenny@broadstreetads.com) for more information.
 
 **On Ad Sizes**
 
