@@ -1,5 +1,5 @@
 <!--
-title: How to Become a Local Publisher
+title: How to Start A Hyperlocal Blog
 linktext: Home
 created: August 15, 2012
 listorder: 1
