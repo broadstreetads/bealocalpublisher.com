@@ -135,7 +135,7 @@ They were already mentioned, but the two recommended adserver options for your l
 - [OpenX OnRamp](http://openx.com/publishers/community-ad-server)
 - [Google DoubleClick for Publishers (DFP)](https://www.google.com/intl/en_US/dfp/info/welcome.html)
 
-**Disclosure:** The writers behind BeALocalPublisher.com are the developers of the Broadstreet Adserver for Independent Publishers. We built it specifically for fixed price ads that aren't sold on a CPM or CPC basis. As an added bonus, it integrates very smoothly with Wordpress, something other adservers don't do. Reach out to [kenny@broadstreetads.com](kenny@broadstreetads.com) for more information.
+**Disclosure:** The writers behind BeALocalPublisher.com are the developers of the Broadstreet Adserver for Independent Publishers. We built it specifically for fixed price ads that aren't sold on a CPM or CPC basis. As an added bonus, it integrates very smoothly with Wordpress, something other adservers don't do. Reach out to [kenny@broadstreetads.com](mailto:kenny@broadstreetads.com) for more information.
 
 **On Ad Sizes**
 
