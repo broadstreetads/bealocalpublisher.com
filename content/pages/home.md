@@ -51,9 +51,9 @@ Of the four above, Wordpress is the recommended choice for the following reasons
 
 It is possible to get started using a free account using a service like Tumblr and Blogger, but you'll find that the ability to customize your blog and grow a business will become a challenge down the road. Unless you have tightly-held convictions, go with Wordpress.
 
-The one definite cost you will incur is for a web host. Web host costs can range from as little as $8 per month to $100/month. The makers of Wordpress list a [variety of hosts](http://wordpress.org/hosting/), but this guide **strongly recommends [WPEngine](http://wpengine.com)** for the following reasons:
+The one definite cost you will incur is for a web host. Web host costs can range from as little as $8 per month to $100/month. The makers of Wordpress list a [variety of hosts](http://wordpress.org/hosting/), but this guide **strongly recommends [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=)** for the following reasons:
 
-* WPEngine specializes in Wordpress
+* [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=) specializes in Wordpress
 * Wordpress installation is done for you
 * Their team is dedicated to keeping their platform fast
 * They achieve page load times much faster than the average Wordpress install
@@ -61,12 +61,12 @@ The one definite cost you will incur is for a web host. Web host costs can range
 
 You can get started with WPEngine at $29/month. It's a little more expensive than other hosting options, but the ease of use and reliability is well worth it in our opinion.
 
-**Disclosure:** We have no affiliation with WPEngine or Wordpress. We just like them.
+**Disclosure:** We do have a partnership with WPEngine. But we only partnered with them because they're the best in the Wordpress hosting business, and we needed someone reliable to refer hosting needs to.
 
 **Action Items**
 
 * Decide on a platform (*recommended*: Wordpress)
-* Get hosting (*recommended*: WPEngine)
+* Get hosting (*recommended*: [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=))
 
 Once you've found hosting, ask your webhost support team how to set up Wordpress. *Most web hosts can easily install it for you.* If you chose WPEngine, it will already be installed for you.
 
