@@ -129,7 +129,7 @@ This is the general workflow for putting ads on your site with an ad server:
 
 Getting all this set up can be a complicated process! But you'll thank yourself when managing those 50 local advertisers becomes *mostly* painless.
 
-They were already mentioned, but the two recommended adserver options for your local blog are:
+They were already mentioned, but the three recommended adserver options for your local blog are:
 
 - [Broadstreet](http://broadstreetads.com)
 - [OpenX OnRamp](http://openx.com/publishers/community-ad-server)
