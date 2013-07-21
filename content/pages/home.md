@@ -51,9 +51,9 @@ Of the four above, Wordpress is the recommended choice for the following reasons
 
 It is possible to get started using a free account using a service like Tumblr and Blogger, but you'll find that the ability to customize your blog and grow a business will become a challenge down the road. Unless you have tightly-held convictions, go with Wordpress.
 
-The one definite cost you will incur is for a web host. Web host costs can range from as little as $8 per month to $100/month. The makers of Wordpress list a [variety of hosts](http://wordpress.org/hosting/), but this guide **strongly recommends [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=)** for the following reasons:
+The one definite cost you will incur is for a web host. Web host costs can range from as little as $8 per month to $100/month. The makers of Wordpress list a [variety of hosts](http://wordpress.org/hosting/), but this guide **strongly recommends [WPEngine](http://broadstreetads.com/wpengine)** for the following reasons:
 
-* [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=) specializes in Wordpress
+* [WPEngine](http://broadstreetads.com/wpengine) specializes in Wordpress
 * Wordpress installation is done for you
 * Their team is dedicated to keeping their platform fast
 * They achieve page load times much faster than the average Wordpress install
@@ -66,7 +66,7 @@ You can get started with WPEngine at $29/month. It's a little more expensive tha
 **Action Items**
 
 * Decide on a platform (*recommended*: Wordpress)
-* Get hosting (*recommended*: [WPEngine](http://www.shareasale.com/r.cfm?B=394686&U=720167&M=41388&urllink=))
+* Get hosting (*recommended*: [WPEngine](http://broadstreetads.com/wpengine))
 
 Once you've found hosting, ask your webhost support team how to set up Wordpress. *Most web hosts can easily install it for you.* If you chose WPEngine, it will already be installed for you.
 
@@ -132,7 +132,7 @@ Getting all this set up can be a complicated process! But you'll thank yourself 
 They were already mentioned, but the three recommended adserver options for your local blog are:
 
 - [Broadstreet](http://broadstreetads.com)
-- [OpenX OnRamp](http://openx.com/publishers/community-ad-server)
+- [OpenX](http://openx.com/publishers/community-ad-server)
 - [Google DoubleClick for Publishers (DFP)](https://www.google.com/intl/en_US/dfp/info/welcome.html)
 
 **Disclosure:** The writers behind BeALocalPublisher.com are the developers of the Broadstreet Adserver for Independent Publishers. We built it specifically for fixed price ads that aren't sold on a CPM or CPC basis. As an added bonus, it integrates very smoothly with Wordpress, something other adservers don't do. Reach out to [kenny@broadstreetads.com](mailto:kenny@broadstreetads.com) for more information.
